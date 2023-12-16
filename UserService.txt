@@ -6,3 +6,6 @@ Processing Data. Modifying data. Deleting Users....
 More functions added
 
 Even more data is being retrieved
+
+
+create avatar
